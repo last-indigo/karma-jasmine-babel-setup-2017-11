@@ -1,3 +1,9 @@
+NOTES:
+2017.11.11 - Added Travis CI integration : 
+[![Build Status](https://travis-ci.org/last-indigo/karma-jasmine-babel-setup-2017-11.svg?branch=master)](https://travis-ci.org/last-indigo/karma-jasmine-babel-setup-2017-11)
+
+----
+
 > npm init -y
 > npm i --save-dev karma
 
