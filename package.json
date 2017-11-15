@@ -1,0 +1,24 @@
+{
+  "name": "2017.11-Karma-setup-delete-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-babel-preprocessor": "^7.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
+}
