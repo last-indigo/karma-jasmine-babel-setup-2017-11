@@ -79,4 +79,11 @@ The problem is solved by closing my local-server running, as advised in:
 
 NOW IT'S FINALLY WORKING AND RECOGNIZING ARROW FUNCTIONS! :)
 
+---
 
+Adding of Travis CI browsers for tests is explained here:
+- http://karma-runner.github.io/0.8/plus/Travis-CI.html
+- https://docs.travis-ci.com/user/gui-and-headless-browsers/#Using-xvfb-to-Run-Tests-That-Require-a-GUI
+
+Setting Chrome add-on in TravisCI
+- https://docs.travis-ci.com/user/gui-and-headless-browsers/#Using-the-Chrome-addon-in-the-headless-mode

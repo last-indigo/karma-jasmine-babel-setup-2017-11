@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "karma start --browsers Firefox,PhantomJS --single-run",
+    "test": "karma start --browsers Firefox,PhantomJS,Chrome --single-run",
     "test:dev": "karma start"
   },
   "keywords": [],
